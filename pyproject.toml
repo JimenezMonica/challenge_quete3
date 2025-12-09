@@ -1,0 +1,11 @@
+[project]
+name = "challenge-quete3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "streamlit>=1.52.1",
+    "streamlit-authenticator>=0.4.2",
+    "streamlit-option-menu>=0.4.0",
+]
