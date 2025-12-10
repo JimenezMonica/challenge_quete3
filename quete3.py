@@ -12,7 +12,7 @@ from streamlit_authenticator import Authenticate # type: ignore
 
 
 #import df
-user_df = pd.read_csv(r"C:\Users\monic\Documents\Formation Data Wild\VSCODE\challenge-quete3\login.csv")
+user_df = pd.read_csv("login.csv")
 
 #Créate 2 name as index and as colums
 user_df["name_display"] = user_df["name"]
