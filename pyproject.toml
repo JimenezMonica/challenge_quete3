@@ -3,7 +3,7 @@ name = "challenge-quete3"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 dependencies = [
     "pip>=25.3",
     "scikit-learn>=1.8.0",
